@@ -75,5 +75,5 @@ For questions or suggestions, feel free to connect:
 Name: Adarsh </br>
 Linkedin: https://www.linkedin.com/in/adarsh-dwivedi-4a1241334?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnXBVVtntT5Km%2BYSNLlJBCQ%3D%3D
 
-
+NOTE : I HAVE NOT ADDED WEBCAM PART KINDLY CHECK THE CODE AND TRY IT ON YOUR OWN .
 # ⭐ If you like this project, don’t forget to star the repository!
